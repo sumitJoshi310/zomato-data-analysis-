@@ -80,5 +80,5 @@ zomato-analysis/
 ---
 
 ## 👩‍💻 Author
-**Neha Joshi** — Data Analyst  
-[LinkedIn](#) | [GitHub](#) | [HackerRank](#)
+**SumitJoshi** — Data Analyst  
+[www.linkedin.com/in/sumit-joshi-2059b828b](#) | [https://github.com/sumitJoshi310](#) | 
